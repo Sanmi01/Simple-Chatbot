@@ -1,2 +1,2 @@
 # Simple-Chatbot
-This is the simple chatbot using NTLK library.
+This is a simple chatbot using NTLK library.
